@@ -1,4 +1,10 @@
 Shopping list for food
 -apples
 -oranges
--pears:
+-pears
+
+-steaks
+
+-potatoes
+
+-green beans
