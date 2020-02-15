@@ -1,0 +1,4 @@
+This is shopping list for toys
+-barbie doll
+-baseball
+-baseball glove
