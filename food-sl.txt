@@ -5,9 +5,11 @@ Shopping list for food
 
 -steaks
 -chicken
+-pork
 
 -potatoes
 -rice
 
 -green beans
 -corn
+-squah
